@@ -63,4 +63,4 @@ Also, we tried a method to schedule and change the beta value (a method close to
 On beta scheduling, it seems that samplewise RICAP is better.
 
 # Refence
-Ryo Takahashi, Takashi Matsubara, Kuniaki Uehara. Data Augmentation using Random Image Cropping and Patching for Deep CNNs. ACML2018. 2018
+Ryo Takahashi, Takashi Matsubara, Kuniaki Uehara. [Data Augmentation using Random Image Cropping and Patching for Deep CNNs](https://arxiv.org/abs/1811.09030). ACML2018. 2018
